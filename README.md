@@ -18,7 +18,7 @@ TensorFlow: A framework for building and training machine learning models.</br>
 # Usage
 The project consists of multiple scripts and notebooks. Each script/notebook focuses on a specific task or technique. Here is a brief description of the files in this repository:
 
-Magic_Telescope.ipynb: Colabatory page demonstrating data preprocessing steps.
+Magic_Telescope.ipynb: Colabatory page demonstrating data preprocessing steps.</br>
 README.md: Description.
 Feel free to explore and run the notebooks to understand the steps involved in data preprocessing, model training, and evaluation.
 
