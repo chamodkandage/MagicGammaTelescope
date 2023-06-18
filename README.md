@@ -7,7 +7,8 @@ This repository contains the code and resources for a machine learning freelanci
 # Introduction
 The goal of this project is to apply machine learning algorithms for classification tasks. The project includes data preprocessing, model training, evaluation, and result analysis. The following libraries and tools were used in this project:
 
-NumPy: A library for numerical computing in Python.<br>
+NumPy: A library for numerical computing in Python.
+<br>
 Pandas: A library for data manipulation and analysis.<br>
 Matplotlib: A library for data visualization.<br>
 Scikit-learn: A machine learning library for Python.<br>
