@@ -3,14 +3,6 @@ Machine learning project (Data Science)
 Bock,R.. (2007). MAGIC Gamma Telescope. UCI Machine Learning Repository. https://doi.org/10.24432/C52C8B.
 This repository contains the code and resources for a machine learning freelancing project. The project aims to develop data science skills and involves classification tasks using various algorithms and techniques.
 
-# Table of Contents
-## Introduction
-## Usage
-## Data Preprocessing
-## Model Training and Evaluation
-## Results and Analysis
-## Contributing
-## License
 
 # Introduction
 The goal of this project is to apply machine learning algorithms for classification tasks. The project includes data preprocessing, model training, evaluation, and result analysis. The following libraries and tools were used in this project:
